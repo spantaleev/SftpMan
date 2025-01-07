@@ -5,6 +5,8 @@ SftpMan with the GTK frontend
 
 ---------------------------------------
 
+⚠️ **Warning**: This CLI application and library has been rewritten in Rust. See `sftpman-rs`_. This old Python-based software is no longer maintained.
+
 SftpMan consists of a Command Line and a GTK application (packaged separately) that make it simpler to setup and mount SSHFS/SFTP file systems.
 
 The idea was to develop a simple CLI/GUI application for Linux that can be used to manage SFTP systems.
@@ -126,3 +128,4 @@ Known limitations
 .. _AUR: https://wiki.archlinux.org/index.php/AUR
 .. _sftpman AUR package: https://aur.archlinux.org/packages/sftpman/
 .. _sftpman-gtk: https://github.com/spantaleev/sftpman-gtk
+.. _sftpman-rs: https://github.com/spantaleev/sftpman-rs
