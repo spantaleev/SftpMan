@@ -18,7 +18,7 @@ setup(
     long_description = __doc__,
     author = "Slavi Pantaleev",
     author_email = "slavi@devture.com",
-    url = "https://github.com/spantaleev/sftpman",
+    url = "https://github.com/spantaleev/sftpman-python",
     keywords = ["sftp", "ssh", "sshfs"],
     license = "GPL v3",
     packages = ['sftpman'],
